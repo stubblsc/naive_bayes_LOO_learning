@@ -1,0 +1,1 @@
+Num samples: 10000Classes: 0, 1, and 2Attribute: #1 {S, M, L, X}Attribute: #2 {A, B, C}Attribute: #3 {w, x, y, z}
